@@ -2,6 +2,5 @@
 # Vinicius Amaral Costa
 
 # Nível de Conhecimento:
-# HTML:Básico
-# CSS: Básico
-
+HTML:Básico
+CSS: Básico
