@@ -1,8 +1,7 @@
 # web-1.0
-#Vinicius Amaral Costa
+# Vinicius Amaral Costa
 
-#Nível de Conhecimento:
-
-#-HTML:Básico
-#-CSS: Básico
+# Nível de Conhecimento:
+# HTML:Básico
+# CSS: Básico
 
